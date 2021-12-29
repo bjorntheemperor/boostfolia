@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'MgOpenModata';
-  src: url("../../fonts/MgOpenModataRegular.ttf") format("truetype");
+  src: url("MgOpenModataRegular.ttf") format("truetype");
   font-style: normal;
   font-weight: normal;
 }
 
 @font-face {
-  font-family: 'BigNoodleTitling'
-  src: url("../../fonts/bignoodletitling_oblique.ttf") format("truetype");
+  font-family: 'BigNoodleTitling';
+  src: url("bignoodletitlingrus.ttf") format("truetype");
   font-style: normal;
   font-weight: normal;
 }
