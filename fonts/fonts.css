@@ -4,3 +4,10 @@
   font-style: normal;
   font-weight: normal;
 }
+
+@font-face {
+  font-family: 'BigNoodleTitling'
+  src: url("../../fonts/bignoodletitlingrus.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
